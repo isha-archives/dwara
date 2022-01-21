@@ -32,6 +32,8 @@ Portico defines **digital preservation** as:
 
 Digital preservation presents several key challenges, which Dwara can help address:
 
+| Challenge                                             | Description                                                                                                                                                                                                                                                                                                     |
+|-------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Storing large volumes of data inexpensively           | Dwara can be configured to store copies of data on different storage media types. This can be done to reduce the risk of data loss, and also allows data to be transitioned to a lower cost storage type without any disruption.                                                                                |
 | Maintaining data integrity and authenticity           | Dwara stores a checksum for every file ingested as well as the date the checksum was last verified, allowing periodic fixity checking of data to be scheduled.                                                                                                                                                  |
 | Migrating data to new storage media                   | Flows can be defined to automatically restore artifacts from older storage volumes, verify all file checksums, and rewrite them to one or more new storage volumes, recording the storage history of each artifact.                                                                                             |
@@ -39,9 +41,6 @@ Digital preservation presents several key challenges, which Dwara can help addre
 | Maintaining descriptive metadata                      | Dwara can call external applications to extract useful metadata from files being ingested. User defined tags can be added to artifacts, which can be used for searching and filtering files for different types of processing.                                                                                  |
 | Providing quick retrieval of data when needed         | Dwara allows users to search for ingested artifacts and restore the files they need, allowing queued restore jobs to be dynamically reprioritized. For media content the framework allows PFR (partial file retrieval) flows to be implemented for different combinations of storage formats and media formats. |
 | Handling private data                                 | Private data can be stored on separate physical volumes and also be subject to modified processing flows. For example, inclusion of an additional encryption task, or exclusion of a default publishing task during data ingest.                                                                                |
-
-
-
 
 
 
