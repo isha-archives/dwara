@@ -1,10 +1,10 @@
 # Dwara
 
+**A general purpose framework for the management, storage and processing of digital data, with a focus on enabling the activities needed for digital preservation**
+
 --------------
 What is Dwara?
 --------------
-
-Dwara is a general purpose framework for the management, storage and processing of digital data, with a focus on enabling the activities needed for digital preservation. 
 
 For the purpose of product comparison, Dwara can be viewed as sitting somewhere between the following types of system:
 
