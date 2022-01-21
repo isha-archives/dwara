@@ -3,15 +3,15 @@
 **A framework for the management, storage and processing of digital data, with a focus on digital preservation**
 
 ## Important Note
-Dwara is currently being used at the Isha Foundation Archives to manage over 2PB of video data. Deployed in September 2020, the software is developed and maintained by a small group of Isha volunteers. The project is very much a work-in-progress and the documentation is sketchy, although we will update the wiki with relevant documentation upon request. (We try and keep the database schema docs always up to date). 
+Dwara is currently being used at the Isha Foundation Archives to manage over 2PB of video data. Conceived in 2018, and deployed in 2020, the software is developed and maintained by a small group of Isha volunteers. The project is very much a work-in-progress and the documentation is sketchy, although we will update the wiki with relevant documentation upon request. (We try and keep the database schema docs always up to date). 
 
-Dwara's intended audience are the technical people who manage digital archives, who often need to write ad-hoc scripts and piece together multiple tools to achieve their desired workflows. 
+Dwara is for institions who need a flexible data archiving/mangement solution but who don't want to invest in one of the commercial products. Dwara's intended audience includes the technical people who manage digital archives, who often need to write ad-hoc scripts and piece together multiple tools to achieve their desired data preservtion workflows. 
 
 The architecture and configuration is quite general and allows almost any kind of data workflow to be achieved via an extensible Java API. However, the configuration can be a little complex, and there is a moderate to steep learning curve in understanding how the system works.
 
-Our aim of open sourcing Dwara is to encourage other institutions to make use of our work and contribute to the project, so that we build a community around it and become less dependent on our core development team.
+Dwara currently supports management of an LTO tape library and extensive write and restore job automation options. The system has a simple search and video preview interface allowing it to function as a very basic MAM.  
 
-Any questions or suggestions are welcome - please use the discussions page for the same. We'll do our best to respond to everything, but we are a small team with limited time, so we encourage people to find out whatever they can from the available resources first.
+Our aim of open sourcing Dwara is to encourage other institutions to make use of our work and contribute to the project. Any questions or suggestions are welcome - please use the discussions page for the same. We'll do our best to respond to everything, but we are a small team with limited time, so we ask people to find out whatever they can from the available resources first.
 
 ## Technologies
 - Java 8
