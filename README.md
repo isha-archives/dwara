@@ -9,7 +9,7 @@ Dwara's intended audience are the technical people who manage digital archives, 
 
 The architecture and configuration is quite general and allows almost any kind of data workflow to be achieved via an extensible Java API. However, the configuration can be a little complex, and there is a moderate to steep learning curve in understanding how the system works.
 
-Our aim of open sourcing Dwara is to encourage other institutions to make use of our work and contribute to the project, so that we build a community and become less dependent on our core development team.
+Our aim of open sourcing Dwara is to encourage other institutions to make use of our work and contribute to the project, so that we build a community around it and become less dependent on our core development team.
 
 Any questions or suggestions are welcome - please use the discussions page for the same.
 
