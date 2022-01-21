@@ -11,7 +11,7 @@ The architecture and configuration is quite general and allows almost any kind o
 
 Our aim of open sourcing Dwara is to encourage other institutions to make use of our work and contribute to the project, so that we build a community around it and become less dependent on our core development team.
 
-Any questions or suggestions are welcome - please use the discussions page for the same.
+Any questions or suggestions are welcome - please use the discussions page for the same. We'll do our best to respond to everything, but we are a small team with limited time, so we encourage (expect) people to find out whatever they can from the code and the available docs first.
 
 ## Technologies
 - Java 8
