@@ -7,7 +7,7 @@ Dwara is currently being used at the Isha Foundation Archives to manage over 2PB
 
 Dwara is for institions who need a flexible data archiving/mangement solution with customizable data processing workflows. Dwara's intended audience includes the technical people who manage digital archives, who often need to write ad-hoc scripts and piece together multiple tools to automate data preservtion tasks. 
 
-The architecture and configuration is quite general and allows almost any kind of data workflow to be achieved via an extensible Java API. However, the configuration can be a little complex, and there is a moderate to steep learning curve in understanding how the system works.
+The architecture and configuration is quite general and allows almost any kind of data workflow to be achieved via an extensible Java API. However, the configuration can be a little complex, and there is a moderate to high learning curve in understanding how the system works.
 
 Dwara currently supports management of an LTO tape library and extensive write and restore job automation options. The system has a simple search and video preview interface allowing it to function as a very basic MAM.  
 
